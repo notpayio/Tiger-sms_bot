@@ -1,0 +1,4 @@
+nextcord 
+discord.py
+colorama
+requests
